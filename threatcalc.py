@@ -146,9 +146,4 @@ def gui():
     main_window.mainloop()
 
 if __name__ == '__main__':
-    # Arg Parse
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-v', '--value', help='Search value specified', action='store_true', dest="v")
-    parser.add_argument('-t', '--tag', help='Search tags', action='store_true', dest="t")
-    args = parser.parse_args()
     gui()
