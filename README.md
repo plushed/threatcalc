@@ -3,4 +3,4 @@ A simple Threat Calculator based on Intent Opportunity and Capability matrix. Se
 
 ![model](model.png?raw=true "Model")
 
-![screenshot](screenshot.png?raw=true "Screenshot")
+![screenshot](screenshot.PNG?raw=true "Screenshot")
