@@ -2,3 +2,5 @@
 A simple Threat Calculator based on Intent Opportunity and Capability matrix. Severity and Threat Type are scored.
 
 ![model](model.png?raw=true "Model")
+
+![screenshot](screenshot.png?raw=true "Screenshot")
